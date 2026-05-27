@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  "Resume"
-date:   2015-04-19 08:43:59
+date:   2026-05-27 09:47:59
 author: The same guy
 categories: Resume
 tags: lorem ipsum
 ---
 
 This is my resume, take a look at it... or don't, you have free will...
+
 
 Follow ME ---> https://github.com/RMgametopspot/ReadME/blob/main/Resume.pdf 
