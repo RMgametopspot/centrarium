@@ -9,13 +9,13 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
+title: RMgametopspot
+subtitle: "A simple website for a simple man"
+email: jkjbeck12@gmail.com
 name: Ben Centra
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
-# Base URL of site (i.e. /blog). It should always start with a slash,
+  A simple website to help me pass APCSA and to look good in the future.
+# Base URL of site (i.e.,/blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -93,16 +93,9 @@ social:
   - name: GitHub
     icon: github
     username: bencentra
-    url: https://github.com/bencentra
+    url: https://github.com/RMgametopspot
     desc: Fork me on GitHub
     share: false
-
-  - name: LinkedIn
-    icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
-    desc: Connect with me on LinkedIn
-    share: true
 
   - name: Google+
     icon: google-plus
