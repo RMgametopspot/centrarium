@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to my Website!"
-date:   2026-045-27 08:43:59
+date:   2026-05-27 08:43:59
 author: Kenneth Beck
 categories: Jekyll
 tags:	jekyll welcome
