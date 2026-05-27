@@ -1,14 +1,15 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-04-20 08:43:59
-author: Ben Centra
+title:  "Welcome to my Website!"
+date:   2026-045-27 08:43:59
+author: Kenneth Beck
 categories: Jekyll
 tags:	jekyll welcome
 cover:  "/assets/instacode.png"
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+This is the starting point of my website. A little about myself is that I don't really enjoy coding(weird, right?), but I am decent at it. I listen to a lot of music and can do basically any job handed to me. I have
+a pet axolotl, 2 cats, and a dog, so responsibility and I go hand in hand. There's not really anything I can't do. I dabble in 3d modleing and design.
 
 ## Adding New Posts
 
