@@ -3,13 +3,13 @@ layout: post
 title:  "Welcome to my Website!"
 date:   2026-05-27 08:43:59
 author: Kenneth Beck
-categories: Jekyll
+categories: Welcome!!
 tags:	jekyll welcome
 cover:  "/assets/instacode.png"
 ---
 
 This is the starting point of my website. A little about myself is that I don't really enjoy coding(weird, right?), but I am decent at it. I listen to a lot of music and can do basically any job handed to me. I have
-a pet axolotl, 2 cats, and a dog, so responsibility and I go hand in hand. There's not really anything I can't do. I dabble in 3d modleing and design.
+a pet axolotl, 2 cats, and a dog, so responsibility and I go hand in hand. There's not really anything I can't do. I work in 3D modeling and design.
 
 ## Adding New Posts
 
